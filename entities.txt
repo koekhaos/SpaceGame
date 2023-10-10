@@ -1,0 +1,30 @@
+-Player
+AttachedEntity
+
+-AI
+AttachedEntity
+
+
+*Entity
+<sprite>
+position
+texture
+angle
+
+Entity parent
+Entity <vector>children
+
+-Structure
+int hp
+int shield
+maxspeed
+velocity
+agility
+thrust
+maxangle
+minangle
+offsetangle
+
+
+
+-Projectile
